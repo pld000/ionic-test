@@ -1,0 +1,7 @@
+{
+  "name": "ionic-text",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
